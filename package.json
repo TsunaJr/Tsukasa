@@ -1,5 +1,5 @@
 {
-  "name": "termux-bot-wa",
+  "name": "Tsukasa",
   "version": "0.0.2",
   "description": "No comment",
   "main": "index.js",
@@ -56,10 +56,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fxc7/termux-bot-wa.git"
+    "url": "git+https://github.com/TsunaJr/tsukasa.git"
   },
   "bugs": {
-    "url": "https://github.com/Fxc7/termux-bot-wa/issues"
+    "url": "https://github.com/TsunaJr/tsukasa/issues"
   },
-  "homepage": "https://github.com/Fxc7/termux-bot-wa#readme"
+  "homepage": "https://github.com/TsunaJr/tsukasa#readme"
 }
